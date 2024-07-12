@@ -1,5 +1,4 @@
 # Claudio Oliveira
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Analista+de+Sistemas+|+Desenvolvedor+Full+Stack)](https://git.io/typing-svg)
 ## Desenvolvedor FullStack
 
 - 👋 Hi, I’m @Claudi0-Oliveira
